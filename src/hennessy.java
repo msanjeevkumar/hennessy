@@ -1,3 +1,4 @@
+package ru.monory.app;
 import java.util.Random;
 import java.util.Scanner;
 
