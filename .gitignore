@@ -163,3 +163,12 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#############
+## IDEA
+#############
+
+# Idea project files
+*.ipr
+*.iws
+*.iml
